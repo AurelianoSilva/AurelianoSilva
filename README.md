@@ -5,11 +5,11 @@
 
 <br/>
 
-:computer: Sou Analista de Sistemas Sênior | AYESA.
+:computer: Sou Analista de Sistemas Sênior.
 
 <br/> ⚡ Minha stack: C# | Web API | JavaScript| ASP.NET Core.
 
- <br/> 🔭 Estudando: ReactJS, Node.js, React Native & Typescript.
+ <br/> 🔭 Estudando: Docker, DevOps, Dart, Flutter, ReactJS, Node.js, React Native & Typescript.
  
  <br/> 💬 Sobre mim: Curto tecnologias, futebol, NFL.
  
@@ -19,3 +19,9 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aureliano-silva-87587665/)](https://www.linkedin.com/in/aureliano-silva-87587665//) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aurelianos18@gmail.com)](mailto:aurelianos18@gmail.com)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurelianoSilva&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelianoSilva&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
